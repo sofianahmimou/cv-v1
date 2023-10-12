@@ -1,0 +1,44 @@
+body {
+     background-color:snow;
+}
+p {
+     font-style:Tahoma;
+     font-size:larger;
+     font-family:monospace
+}
+hr {
+     background-color:white;
+     color: grey;
+     width: 150px;
+     border-width: 5px;
+     border-style: dotted none none;
+}
+input {
+     height:50px;
+     width: 150px;
+     font-size: medium;
+     background-color: #30E3CA;
+     color:#40514E;
+     font-style:tahoma;
+     font-family:monospace;
+     border-style:none;
+     border-top-style: none;
+     font-size: large;
+}
+h1 {
+     font-size: xx-large;
+     font-style: initial;
+     font-family: monospace;
+}
+h2 {
+     font-style: initial;
+     font-size: xx-large;
+     font-family:monospace;
+     color:#30E3CA;
+}
+h3 {
+     font-size: xx-large;
+     color: #30E3CA;
+     font-style: initial;
+     font-family: monospace;
+}
